@@ -1,0 +1,11 @@
+.heading
+{
+    font-size: 90px;
+    font-family: 'Segoe UI';
+}
+
+canvas
+{
+    border:5px "solid" black;
+    box-shadow: 5px 5px 5px gray;
+}
